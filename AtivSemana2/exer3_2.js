@@ -17,3 +17,4 @@ if (confirmPalindromeCheck) {
 } else {
     alert("Obrigado por visitar esta página");
 }
+
